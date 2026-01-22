@@ -1,0 +1,3 @@
+MEMORY_VALUE: bugmaker00
+UPSTREAM_README_H1: # Academic Pages
+UPSTREAM_CONFIG_REPOSITORY: "academicpages/academicpages.github.io"
